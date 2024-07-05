@@ -1,0 +1,23 @@
+{
+  "name": "telegram-bot-boilerplate",
+  "version": "1.0.0",
+  "description": "A robust and easy-to-use boilerplate for creating Telegram bots using Node.js. This boilerplate provides a structured setup, essential features, and best practices to jumpstart your Telegram bot development.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ronak Patel <rdpatel7824@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "NodeJS",
+    "Telegram",
+    "boilerplate",
+    "skeleton",
+    "starter-kit",
+    "bot"
+  ],
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.63.0"
+  }
+}
