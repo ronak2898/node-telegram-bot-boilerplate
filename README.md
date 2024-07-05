@@ -22,7 +22,7 @@ To get started, clone the repository and install the dependencies:
 
 ```bash
 git clone https://github.com/ronak2898/node-telegram-bot-boilerplate.git
-cd telegram-bot-boilerplate
+cd node-telegram-bot-boilerplate
 npm i
 node bot
 ```
